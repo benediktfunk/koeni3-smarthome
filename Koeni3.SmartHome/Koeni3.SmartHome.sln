@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koeni3.SmartHome.Client", "Koeni3.SmartHome.Client\Koeni3.SmartHome.Client.csproj", "{75B8CA3D-CE0E-4B02-A61F-AFE403043CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koeni3.SmartHome.Common", "Koeni3.SmartHome.Common\Koeni3.SmartHome.Common.csproj", "{C07E23CE-40C6-4C13-858D-F8694F66692F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koeni3.SmartHome.Services", "Koeni3.SmartHome.Services\Koeni3.SmartHome.Services.csproj", "{A8B0B4B8-2814-4438-A76A-F33BDC511276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koeni3.SmartHome.Tests", "Koeni3.SmartHome.Tests\Koeni3.SmartHome.Tests.csproj", "{A91ACB38-83B4-4961-BF7E-18629695F55A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B8CA3D-CE0E-4B02-A61F-AFE403043CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B8CA3D-CE0E-4B02-A61F-AFE403043CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B8CA3D-CE0E-4B02-A61F-AFE403043CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B8CA3D-CE0E-4B02-A61F-AFE403043CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C07E23CE-40C6-4C13-858D-F8694F66692F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07E23CE-40C6-4C13-858D-F8694F66692F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07E23CE-40C6-4C13-858D-F8694F66692F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07E23CE-40C6-4C13-858D-F8694F66692F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B0B4B8-2814-4438-A76A-F33BDC511276}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B0B4B8-2814-4438-A76A-F33BDC511276}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B0B4B8-2814-4438-A76A-F33BDC511276}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B0B4B8-2814-4438-A76A-F33BDC511276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91ACB38-83B4-4961-BF7E-18629695F55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91ACB38-83B4-4961-BF7E-18629695F55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91ACB38-83B4-4961-BF7E-18629695F55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91ACB38-83B4-4961-BF7E-18629695F55A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1B37DB9-D3B2-472B-9054-65EB685D0E94}
+	EndGlobalSection
+EndGlobal
